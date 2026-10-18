@@ -170,8 +170,8 @@ AI grading for teachers, trusted by **100,000+ teachers** at **16,000+ schools a
 
 ## GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=darkanum&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8B7CF6&icon_color=8B7CF6&text_color=8B93A5" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkanum&layout=compact&hide_border=true&bg_color=00000000&title_color=8B7CF6&text_color=8B93A5" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats-tau-henna-38.vercel.app/api?username=darkanum&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=8B7CF6&icon_color=8B7CF6&text_color=8B93A5" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats-tau-henna-38.vercel.app/api/top-langs/?username=darkanum&layout=compact&hide_border=true&bg_color=00000000&title_color=8B7CF6&text_color=8B93A5" alt="Top languages"/>
 
 </div>
 
