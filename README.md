@@ -216,6 +216,24 @@ AI grading for teachers, trusted by **100,000+ teachers** at **16,000+ schools a
   </a>
 </div>
 
+<div align="center">
+
+## Support My Work
+
+If something I built helped you, you can support it here. 💜
+
+<a href="https://github.com/sponsors/darkanum" target="_blank">
+  <img src="https://img.shields.io/badge/-Sponsor-8B7CF6?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+</a>
+
+<br/><br/>
+
+<img src=".github/pix-qr.png" alt="Pix QR code (VapuLab)" width="200"/>
+
+<sub>🇧🇷 Pix · any amount · VapuLab</sub>
+
+</div>
+
 <br/>
 
 <div align="center">
