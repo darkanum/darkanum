@@ -36,6 +36,8 @@ Today I'm a **Founding AI Engineer @ [CoGrader](https://cograder.com)** and the 
 
 _Logic. Infrastructure. Perception._
 
+<a href="https://github.com/Vapulab"><img src="https://img.shields.io/github/stars/Vapulab?style=for-the-badge&label=VapuLab%20stars&color=8B7CF6&logo=github&logoColor=white" alt="VapuLab stars"/></a>
+
 </div>
 
 My company. A software engineering lab that builds B2B systems that have to be right: fast, auditable and hard to break.
@@ -68,6 +70,12 @@ My company. A software engineering lab that builds B2B systems that have to be r
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://github.com/Vapulab/malphas"><img src="https://github-readme-stats-tau-henna-38.vercel.app/api/pin/?username=Vapulab&repo=malphas&hide_border=true&bg_color=00000000&title_color=8B7CF6&icon_color=8B7CF6&text_color=8B93A5" alt="Vapulab/malphas"/></a>
+  <a href="https://github.com/Vapulab/ai-devhouse-releases"><img src="https://github-readme-stats-tau-henna-38.vercel.app/api/pin/?username=Vapulab&repo=ai-devhouse-releases&hide_border=true&bg_color=00000000&title_color=8B7CF6&icon_color=8B7CF6&text_color=8B93A5" alt="Vapulab/ai-devhouse-releases"/></a>
+  <a href="https://github.com/Vapulab/notaflow"><img src="https://github-readme-stats-tau-henna-38.vercel.app/api/pin/?username=Vapulab&repo=notaflow&hide_border=true&bg_color=00000000&title_color=8B7CF6&icon_color=8B7CF6&text_color=8B93A5" alt="Vapulab/notaflow"/></a>
+</div>
 
 <div align="center">
 
