@@ -162,6 +162,7 @@ AI grading for teachers, trusted by **100,000+ teachers** at **16,000+ schools a
 | 🛡️ [**legion**](https://github.com/darkanum/legion) | Three autonomous engineering agents that fix bugs, patrol production logs and review every PR. Open source (Apache-2.0), a VapuLab project |
 | 🏢 [**ai-devhouse**](https://github.com/Vapulab/ai-devhouse-releases) | A management-game desktop app (Rust) where every developer is a Claude Code agent with its own desk, branch and worktree |
 | 📊 [**istaroth**](https://github.com/darkanum/istaroth) | Genshin Impact data pipeline and API: wiki scraper, banner history and wish import (FastAPI, MongoDB, Docker, Prometheus) |
+| 📖 [**Chronicles of Teyvat**](https://lincoide.itch.io/chronicles-of-teyvat) | A fan-made, illustrated Genshin Impact lore book covering the story up to Version 7.2. Free, in 9 languages |
 | 📟 [**sp32-hw-monitor**](https://github.com/darkanum/sp32-hw-monitor) | Real-time CPU, RAM and GPU telemetry on an ESP32-C6 display, low latency and no flicker |
 | ⚔️ [**buer**](https://github.com/darkanum/buer) | Genshin Impact character build optimizer (TypeScript) |
 
